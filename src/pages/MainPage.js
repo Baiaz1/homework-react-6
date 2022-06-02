@@ -11,7 +11,6 @@ function MainPage(){
     .then(data => setUsers(data))
     }
 
-
     return(
         <div>
 
